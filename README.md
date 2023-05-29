@@ -1,11 +1,12 @@
 # Autoscript VPS v.2
-## _Fighter Tunnel, This autoscript can be used by Debian 10/Ubuntu 20.04 (LTS)_
+## _Kyt Tunnel, This autoscript can be used by Debian 10/Ubuntu 20.04 (LTS)_
 
-### Contact admin [bhoikfostyahya](https://t.me/bhoikfost_yahya)
+### Contact admin [myridwan](https://t.me/kytxz)
+
 
 ### Installer Script
 ```
-source <(curl -sL https://yha.my.id/ub20.sh)
+source <(curl -sL https://raw.githubusercontent.com/myridwan/Autoscript-vps/ipuk/ub20.sh)
 ```
 
 |        SERVICE          |      PORT      |
